@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Patrick 👋
 
-<!--
-**Patrick001-DA/Patrick001-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with a BSc in Mathematics and Economics, focused on 
+turning raw data into clear, actionable insights using SQL, Excel and 
+Power BI/Tableau. Currently building SQL skills through hands-on projects 
+across banking, public health and marketing analytics.
 
-Here are some ideas to get you started:
+## 🧰 Skills
+SQL (joins, CTEs, subqueries, window functions) · Excel (Advanced) · 
+Power BI / Tableau · SPSS · Currently learning: Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- **[Banking SQL Analysis](https://github.com/Patrick001-DA/Banking-SQL-Analysis)** — Relational database analysis across 
+  6 banking tables: customer risk, loan portfolios, branch performance
+- **[Africa COVID SQL Analysis](https://github.com/Patrick001-DA/Africa-COVID-SQL-Analysis-)** — COVID-19 statistics across 
+  African countries: case fatality rates, testing rates, rankings
+- **[Bank Marketing SQL Analysis](https://github.com/Patrick001-DA/Bank-Marketing-SQL-Analysis)** — Telemarketing campaign analysis: 
+  subscription rates by customer profile, campaign timing effectiveness
+
+## 📫 Reach me
+njugunapatrick356@gmail.com
+
