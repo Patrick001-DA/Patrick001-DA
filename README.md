@@ -10,7 +10,7 @@ SQL (joins, CTEs, subqueries, window functions) · Excel (Advanced) ·
 Power BI / Tableau · SPSS · Currently learning: Python
 
 ## 📊 Projects
-- **[Banking SQL Analysis](https://github.com/Patrick001-DA/Banking-SQL-Analysis)** — Relational database analysis across 
+- **[Banking SQL Analysis]( https://github.com/Patrick001-DA/Banking-SQL-Analysis-README.md ** — Relational database analysis across 
   6 banking tables: customer risk, loan portfolios, branch performance
 - **[Africa COVID SQL Analysis](https://github.com/Patrick001-DA/Africa-COVID-SQL-Analysis-)** — COVID-19 statistics across 
   African countries: case fatality rates, testing rates, rankings
